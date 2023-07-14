@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
-#include <stdio.>
+#include <stdio.h>
 /**
  * main - A program that prints a line using the printf function
  * Return: 0 (Success)
