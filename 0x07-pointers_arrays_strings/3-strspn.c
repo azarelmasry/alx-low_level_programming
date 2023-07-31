@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * _strspn - gets the length of a prefix substring.
- * @a: string.
+ * @s: string.
  * @accept: bytes.
  * Return: unsigned int.
  */
