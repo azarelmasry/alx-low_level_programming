@@ -13,7 +13,7 @@ if (array && size && cmp)
 while (i < size)
 {
 if (cmp(array[i]))
-return (1);
+return (i);
 i++;
 }
 return (-1);
