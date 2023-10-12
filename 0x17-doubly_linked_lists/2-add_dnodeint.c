@@ -16,7 +16,9 @@ if (!*head)
 {
 *head = new;
 new->next = NULL;
+}
 else
+{
 new->next = *head;
 (*head)->prev = new;
 *head = new;
